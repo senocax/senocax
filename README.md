@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @senocax
-- 👀 I’m interested in Data Enginner and Science
-- 🌱 I’m currently learning Spark
-- 💞️ I’m looking to collaborate on open source
+- 👀 I’m interested in Data Engineer and Science
+- 🌱 I’m currently learning Spark and AWS
+- 💞️ I’m looking to collaborate on Big Data
 - 📫 How to reach me Github
 
 <!---
