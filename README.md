@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @senocax
-- 👀 I’m interested in Data Science and python Backend
+- 👀 I’m interested in Data Science and Python Backend
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Big Data
+- 💞️ I’m looking to collaborate on new challenges
 - 📫 How to reach me Github
 
 <!---
