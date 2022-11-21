@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @senocax
-- 👀 I’m interested in Data Science and Python Backend
+- 👀 I’m interested in Data Enginner and Python Backend
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on new challenges
 - 📫 How to reach me Github
